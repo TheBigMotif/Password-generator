@@ -92,6 +92,11 @@ button[disabled] {
   cursor: default;
   background: #c0c7cf;
 }
+/* Code from https://dev.to/code_mystery/random-password-generator-using-javascript-6a */
+button:hover {
+  color: white;
+  background-color: black;
+}
 
 .float-right {
   float: right;
